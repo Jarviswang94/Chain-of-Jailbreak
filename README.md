@@ -24,11 +24,11 @@ To evaluate the effectiveness of our CoJ attack method, we constructed a compreh
 
 
 <div align="center">
-  <img src="paper/result1.jpg" alt="Logo" width="500">
+  <img src="paper/result1.jpg" alt="Logo" width="400">
 </div>
 
 <div align="center">
-  <img src="paper/result.jpg" alt="Logo" width="500">
+  <img src="paper/result.jpg" alt="Logo" width="800">
 </div>
 
 
