@@ -3,7 +3,7 @@ Data and Code for Chain-of-Jailbreak Attack for Image Generation Models via Step
 <br>   <br>
 
 <div align="center">
-  <img src="paper/Overview.jpg" width="500">
+  <img src="paper/overview.jpg" width="500">
 </div>
 
 <h3 align="center">RESEARCH USE ONLY✅ NO MISUSE❌</h3>
